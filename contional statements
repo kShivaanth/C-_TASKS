@@ -1,0 +1,145 @@
+#include <iostream>
+using namespace std;
+/*int main(){
+    char a;
+    cin>>a;
+    //cout<<isalpha(a);
+    if (isalpha(a)){
+        cout<<"it is a alphabet";
+    }
+    else if (isdigit(a)){
+        cout<<"it is a number";
+    }
+    else {
+        cout<<"it is a alphabet";
+    }
+}
+int main (){
+    int a;
+    cin>>a;
+    if (a%3==0 && a%5==0){
+        cout<<"it is divisable by 3 and 5";
+    }
+        
+  
+    else {
+        cout<<"it is not divisable by 3 and 5";
+    }
+}
+int main(){
+    int a;
+        cin>>a;
+        //cout<<isalpha(a);
+        if (a>0){
+            cout<<"it is a positive";
+        }
+        else if (a<0){
+            cout<<"it is a negative";
+        }
+        else {
+            cout<<"it is a zero";
+        }
+        return 0;
+}
+int main (){
+    int a;
+    cin>>a;
+    if (a>=35){
+        cout<<"it is a passmark";
+    }
+        
+  
+    else {
+        cout<<"it is fail mark";
+    }
+    return 0;
+}
+
+int main (){
+    int a;
+    cin>>a;
+    if (a%5==0 && a%11==0){
+        cout<<"it is divisable by 11 and 5";
+    }
+        
+  
+    else {
+        cout<<"it is not divisable by 11 and 5";
+    }
+}
+
+int main (){
+    int a;
+    cin>>a;
+    cout<<a*2.45;
+    return 0;
+}
+
+int main (){
+    int a;
+    cin>>a;
+    if (a>90){
+        cout<<"grade a";
+    }
+    else if (a>90){
+        cout<<"grade b";
+    }
+    else if (a>80){
+        cout<<"grade c";
+    }
+    
+    else if (a>70){
+        cout<<"grade d";
+    }
+    else if (a<60){
+        cout<<"grade f";
+    }
+    return 0;
+    }
+
+int main (){
+    
+    int a,c;
+    char b;
+    cin>>a>>b>>c;
+    if (b =='+'){
+        cout<<a+c<<endl;
+    }
+    else if (b=='-'){
+        cout<<a-c;
+    }
+    else if (b=='*'){
+        cout<<a*c;
+    }
+    
+    else if (b=='/'){
+        cout<<a/c;
+    }
+    return 0;
+}
+*/
+int main (){
+    string a;
+    cin>>a;
+    if (ajan,mar,may,jul,aug){
+        cout<<"grade a";
+    }
+    else if (a>90){
+        cout<<"grade b";
+    }
+    else if (a>80){
+        cout<<"grade c";
+    }
+
+
+
+
+
+
+
+
+
+
+
+
+
